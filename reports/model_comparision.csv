@@ -1,0 +1,7 @@
+model,R2,RMSE,MAE
+RandomForest,0.9849,2786.35,1091.31
+Decisiontree,0.9754,3563.17,1178.76
+lightbgm,0.9692,3987.78,2360.47
+linearRegression,0.9063,6951.11,4527.77
+ridge,0.9063,6951.11,4527.78
+lasso,0.9063,6951.1,4527.36
